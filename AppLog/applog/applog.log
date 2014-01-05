@@ -1,0 +1,233 @@
+2014-01-05 23:17:46,227 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:18:14,935 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:18:14,936 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:18:14,937 - applog - INFO - calling liba.do_something
+2014-01-05 23:18:14,938 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:18:14,938 - applog - INFO - calling liba.some_function()
+2014-01-05 23:18:14,939 - applog - INFO - done with liba.some_function()
+2014-01-05 23:18:14,940 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:18:14,941 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-05 23:18:14,941 - applog - INFO - calling libb.do_something
+2014-01-05 23:18:14,942 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-05 23:18:14,943 - applog - INFO - calling libb.some_function()
+2014-01-05 23:18:14,943 - applog - INFO - done with libb.some_function()
+2014-01-05 23:19:41,307 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:20:08,938 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:20:14,975 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:20:14,976 - applog - INFO - calling liba.do_something
+2014-01-05 23:20:14,977 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:20:14,978 - applog - INFO - calling liba.some_function()
+2014-01-05 23:20:14,978 - applog - INFO - done with liba.some_function()
+2014-01-05 23:20:14,979 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:20:14,981 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-05 23:20:14,982 - applog - INFO - calling libb.do_something
+2014-01-05 23:20:14,984 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-05 23:20:14,985 - applog - INFO - calling libb.some_function()
+2014-01-05 23:20:14,987 - applog - INFO - done with libb.some_function()
+2014-01-05 23:21:53,840 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:22:38,434 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:22:38,435 - applog - INFO - calling liba.do_something
+2014-01-05 23:22:38,436 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:22:38,437 - applog - INFO - calling liba.some_function()
+2014-01-05 23:22:38,439 - applog - INFO - done with liba.some_function()
+2014-01-05 23:22:38,440 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:24:49,852 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:24:51,575 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:24:51,577 - applog - INFO - calling liba.do_something
+2014-01-05 23:24:51,578 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:24:51,579 - applog - INFO - calling liba.some_function()
+2014-01-05 23:24:51,581 - applog - INFO - done with liba.some_function()
+2014-01-05 23:24:51,582 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:24:52,772 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-05 23:24:52,773 - applog - INFO - calling libb.do_something
+2014-01-05 23:24:52,793 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-05 23:24:52,794 - applog - INFO - calling libb.some_function()
+2014-01-05 23:24:52,796 - applog - INFO - done with libb.some_function()
+2014-01-05 23:37:06,056 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:38:31,708 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:38:55,866 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:38:55,868 - applog - INFO - calling liba.do_something
+2014-01-05 23:38:55,869 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:38:55,870 - applog - INFO - calling liba.some_function()
+2014-01-05 23:38:55,872 - applog - INFO - done with liba.some_function()
+2014-01-05 23:38:55,873 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:43:57,240 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:43:58,973 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:43:58,974 - applog - INFO - calling liba.do_something
+2014-01-05 23:43:58,975 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:43:58,976 - applog - INFO - calling liba.some_function()
+2014-01-05 23:43:58,977 - applog - INFO - done with liba.some_function()
+2014-01-05 23:43:58,978 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:44:04,878 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-05 23:44:04,879 - applog - INFO - calling libb.do_something
+2014-01-05 23:44:04,880 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-05 23:44:04,881 - applog - INFO - calling libb.some_function()
+2014-01-05 23:44:04,883 - applog - INFO - done with libb.some_function()
+2014-01-05 23:44:13,804 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:46:46,951 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:46:48,673 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:46:48,674 - applog - INFO - calling liba.do_something
+2014-01-05 23:46:48,676 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:46:48,678 - applog - INFO - calling liba.some_function()
+2014-01-05 23:46:48,679 - applog - INFO - done with liba.some_function()
+2014-01-05 23:46:48,681 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-05 23:51:04,449 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-05 23:51:05,978 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-05 23:51:05,979 - applog - INFO - calling liba.do_something
+2014-01-05 23:51:05,981 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-05 23:51:05,983 - applog - INFO - calling liba.some_function()
+2014-01-05 23:51:05,984 - applog - INFO - done with liba.some_function()
+2014-01-05 23:51:05,985 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:00:24,329 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:00:24,330 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:00:24,331 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:00:25,826 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:00:25,828 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:00:25,829 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:00:43,951 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:00:43,953 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:00:43,954 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:00:44,848 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:00:44,850 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:00:44,851 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:01:47,492 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:01:49,619 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:01:49,621 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:01:49,622 - applog - INFO - calling liba.do_something
+2014-01-06 00:01:49,623 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:01:49,623 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:01:49,624 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:01:49,624 - applog - INFO - calling liba.some_function()
+2014-01-06 00:01:49,625 - applog - INFO - done with liba.some_function()
+2014-01-06 00:01:49,626 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:01:50,621 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:01:50,623 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:01:50,624 - applog - INFO - calling libb.do_something
+2014-01-06 00:01:50,625 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:01:50,626 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:01:50,627 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:01:50,628 - applog - INFO - calling libb.some_function()
+2014-01-06 00:01:50,629 - applog - INFO - done with libb.some_function()
+2014-01-06 00:02:12,868 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:02:16,394 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:02:16,396 - applog - INFO - calling liba.do_something
+2014-01-06 00:02:16,398 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:02:16,399 - applog - INFO - calling liba.some_function()
+2014-01-06 00:02:16,400 - applog - INFO - done with liba.some_function()
+2014-01-06 00:02:16,401 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:02:18,898 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:02:18,900 - applog - INFO - calling libb.do_something
+2014-01-06 00:02:18,902 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:02:18,903 - applog - INFO - calling libb.some_function()
+2014-01-06 00:02:18,903 - applog - INFO - done with libb.some_function()
+2014-01-06 00:02:29,632 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:02:31,352 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:02:31,354 - applog - INFO - calling liba.do_something
+2014-01-06 00:02:31,356 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:02:31,357 - applog - INFO - calling liba.some_function()
+2014-01-06 00:02:31,358 - applog - INFO - done with liba.some_function()
+2014-01-06 00:02:31,359 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:02:32,058 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:02:32,059 - applog - INFO - calling libb.do_something
+2014-01-06 00:02:32,061 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:02:32,062 - applog - INFO - calling libb.some_function()
+2014-01-06 00:02:32,063 - applog - INFO - done with libb.some_function()
+2014-01-06 00:02:50,123 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:02:52,553 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:02:52,554 - applog - INFO - calling liba.do_something
+2014-01-06 00:02:52,556 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:02:52,557 - applog - INFO - calling liba.some_function()
+2014-01-06 00:02:52,558 - applog - INFO - done with liba.some_function()
+2014-01-06 00:02:52,559 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:02:53,248 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:02:53,250 - applog - INFO - calling libb.do_something
+2014-01-06 00:02:53,252 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:02:53,253 - applog - INFO - calling libb.some_function()
+2014-01-06 00:02:53,254 - applog - INFO - done with libb.some_function()
+2014-01-06 00:03:16,570 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:03:18,691 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:03:18,693 - applog - INFO - calling liba.do_something
+2014-01-06 00:03:18,694 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:03:18,696 - applog - INFO - calling liba.some_function()
+2014-01-06 00:03:18,697 - applog - INFO - done with liba.some_function()
+2014-01-06 00:03:18,698 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:03:19,295 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:03:19,297 - applog - INFO - calling libb.do_something
+2014-01-06 00:03:19,299 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:03:19,300 - applog - INFO - calling libb.some_function()
+2014-01-06 00:03:19,301 - applog - INFO - done with libb.some_function()
+2014-01-06 00:03:31,983 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:03:33,114 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:03:33,115 - applog - INFO - calling liba.do_something
+2014-01-06 00:03:33,117 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:03:33,118 - applog - INFO - calling liba.some_function()
+2014-01-06 00:03:33,120 - applog - INFO - done with liba.some_function()
+2014-01-06 00:03:33,121 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:03:33,708 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:03:33,709 - applog - INFO - calling libb.do_something
+2014-01-06 00:03:33,711 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:03:33,712 - applog - INFO - calling libb.some_function()
+2014-01-06 00:03:33,712 - applog - INFO - done with libb.some_function()
+2014-01-06 00:03:51,179 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:03:53,515 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:03:53,517 - applog - INFO - calling liba.do_something
+2014-01-06 00:03:53,527 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:03:53,528 - applog - INFO - calling liba.some_function()
+2014-01-06 00:03:53,530 - applog - INFO - done with liba.some_function()
+2014-01-06 00:03:53,531 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:03:54,210 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:03:54,212 - applog - INFO - calling libb.do_something
+2014-01-06 00:03:54,214 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:03:54,215 - applog - INFO - calling libb.some_function()
+2014-01-06 00:03:54,216 - applog - INFO - done with libb.some_function()
+2014-01-06 00:04:10,238 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:04:11,357 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:04:11,359 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:04:11,360 - applog - INFO - calling liba.do_something
+2014-01-06 00:04:11,361 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:04:11,362 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:04:11,364 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:04:11,365 - applog - INFO - calling liba.some_function()
+2014-01-06 00:04:11,366 - liblog.liba - INFO - received a call to "some_function"
+2014-01-06 00:04:11,367 - applog - INFO - done with liba.some_function()
+2014-01-06 00:04:11,368 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:04:12,158 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:04:12,159 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:04:12,160 - applog - INFO - calling libb.do_something
+2014-01-06 00:04:12,161 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:04:12,163 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:04:12,164 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:04:12,165 - applog - INFO - calling libb.some_function()
+2014-01-06 00:04:12,166 - applog - INFO - done with libb.some_function()
+2014-01-06 00:08:26,183 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:08:27,201 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:08:27,202 - applog - INFO - calling liba.do_something
+2014-01-06 00:08:27,203 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:08:27,204 - applog - INFO - calling liba.some_function()
+2014-01-06 00:08:27,206 - applog - INFO - done with liba.some_function()
+2014-01-06 00:08:27,207 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:08:28,008 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:08:28,009 - applog - INFO - calling libb.do_something
+2014-01-06 00:08:28,010 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:08:28,011 - applog - INFO - calling libb.some_function()
+2014-01-06 00:08:28,012 - applog - INFO - done with libb.some_function()
+2014-01-06 00:08:48,479 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:08:50,701 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:08:50,703 - applog - INFO - created an instance of liba.Auxiliary
+2014-01-06 00:08:50,704 - applog - INFO - calling liba.do_something
+2014-01-06 00:08:50,705 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:08:50,706 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:08:50,707 - applog - INFO - finished liba.Auxiliary.do_something
+2014-01-06 00:08:50,708 - applog - INFO - calling liba.some_function()
+2014-01-06 00:08:50,709 - liblog.liba - INFO - received a call to "some_function"
+2014-01-06 00:08:50,711 - applog - INFO - done with liba.some_function()
+2014-01-06 00:08:50,712 - applog - INFO - creating an instance of libb.Auxiliary
+2014-01-06 00:08:51,605 - liblog.Auxiliary - INFO - creating an instance of Auxiliary
+2014-01-06 00:08:51,607 - applog - INFO - created an instance of libb.Auxiliary
+2014-01-06 00:08:51,608 - applog - INFO - calling libb.do_something
+2014-01-06 00:08:51,609 - liblog.Auxiliary - INFO - doing something
+2014-01-06 00:08:51,610 - liblog.Auxiliary - INFO - done doing something
+2014-01-06 00:08:51,612 - applog - INFO - finished libb.Auxiliary.do_something
+2014-01-06 00:08:51,613 - applog - INFO - calling libb.some_function()
+2014-01-06 00:08:51,614 - liblog.libb - INFO - received a call to "some_function"
+2014-01-06 00:08:51,615 - applog - INFO - done with libb.some_function()

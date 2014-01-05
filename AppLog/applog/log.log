@@ -1,0 +1,52 @@
+2014-01-06 00:14:25,592 - applog - INFO - creating an instance of liba.Auxiliary
+2014-01-06 00:15:56,003 - applog - INFO - creating an instance of liba.ClassA
+2014-01-06 00:15:58,125 - liblog.liba.ClassA - INFO - creating an instance of ClassA
+2014-01-06 00:15:58,126 - applog - INFO - created an instance of liba.ClassA
+2014-01-06 00:15:58,128 - applog - INFO - calling liba.ClassA.do_something
+2014-01-06 00:15:58,129 - liblog.liba.ClassA - INFO - doing something
+2014-01-06 00:15:58,130 - liblog.liba.ClassA - INFO - done doing something
+2014-01-06 00:15:58,131 - applog - INFO - finished liba.ClassA.do_something
+2014-01-06 00:15:58,132 - applog - INFO - calling liba.some_function()
+2014-01-06 00:15:58,132 - liblog.liba - INFO - received a call to "some_function"
+2014-01-06 00:15:58,133 - applog - INFO - done with liba.some_function()
+2014-01-06 00:15:58,133 - applog - INFO - creating an instance of libb.ClassB
+2014-01-06 00:16:19,362 - liblog.liba.ClassB - INFO - creating an instance of ClassB
+2014-01-06 00:16:19,363 - applog - INFO - created an instance of libb.ClassB
+2014-01-06 00:16:19,364 - applog - INFO - calling libb.ClassB.do_something
+2014-01-06 00:16:19,365 - liblog.liba.ClassB - INFO - doing something
+2014-01-06 00:16:19,367 - liblog.liba.ClassB - INFO - done doing something
+2014-01-06 00:16:19,368 - applog - INFO - finished libb.ClassB.do_something
+2014-01-06 00:16:19,369 - applog - INFO - calling libb.some_function()
+2014-01-06 00:16:19,370 - liblog.libb - INFO - received a call to "some_function"
+2014-01-06 00:16:19,371 - applog - INFO - done with libb.some_function()
+2014-01-06 00:18:04,020 - applog - INFO - creating an instance of liba.ClassA
+2014-01-06 00:18:13,761 - liblog.liba.ClassA - INFO - creating an instance of ClassA
+2014-01-06 00:18:13,762 - applog - INFO - created an instance of liba.ClassA
+2014-01-06 00:18:13,764 - applog - INFO - calling liba.ClassA.do_something
+2014-01-06 00:18:13,765 - liblog.liba.ClassA - INFO - doing something
+2014-01-06 00:18:13,766 - liblog.liba.ClassA - INFO - done doing something
+2014-01-06 00:18:13,767 - applog - INFO - finished liba.ClassA.do_something
+2014-01-06 00:18:13,767 - applog - INFO - calling liba.some_function()
+2014-01-06 00:18:13,768 - liblog.liba - INFO - received a call to "some_function"
+2014-01-06 00:18:13,769 - applog - INFO - done with liba.some_function()
+2014-01-06 00:18:13,769 - applog - INFO - creating an instance of libb.ClassB
+2014-01-06 00:18:42,551 - applog - INFO - creating an instance of liba.ClassA
+2014-01-06 00:18:44,979 - liblog.liba.ClassA - INFO - creating an instance of ClassA
+2014-01-06 00:18:44,981 - applog - INFO - created an instance of liba.ClassA
+2014-01-06 00:18:44,982 - applog - INFO - calling liba.ClassA.do_something
+2014-01-06 00:18:44,983 - liblog.liba.ClassA - INFO - doing something
+2014-01-06 00:18:44,984 - liblog.liba.ClassA - INFO - done doing something
+2014-01-06 00:18:44,985 - applog - INFO - finished liba.ClassA.do_something
+2014-01-06 00:18:44,986 - applog - INFO - calling liba.some_function()
+2014-01-06 00:18:44,987 - liblog.liba - INFO - received a call to "some_function"
+2014-01-06 00:18:44,988 - applog - INFO - done with liba.some_function()
+2014-01-06 00:18:44,989 - applog - INFO - creating an instance of libb.ClassB
+2014-01-06 00:18:45,984 - liblog.libb.ClassB - INFO - creating an instance of ClassB
+2014-01-06 00:18:45,985 - applog - INFO - created an instance of libb.ClassB
+2014-01-06 00:18:45,986 - applog - INFO - calling libb.ClassB.do_something
+2014-01-06 00:18:45,987 - liblog.libb.ClassB - INFO - doing something
+2014-01-06 00:18:45,987 - liblog.libb.ClassB - INFO - done doing something
+2014-01-06 00:18:45,988 - applog - INFO - finished libb.ClassB.do_something
+2014-01-06 00:18:45,988 - applog - INFO - calling libb.some_function()
+2014-01-06 00:18:45,989 - liblog.libb - INFO - received a call to "some_function"
+2014-01-06 00:18:45,989 - applog - INFO - done with libb.some_function()
