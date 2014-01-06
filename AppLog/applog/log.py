@@ -11,7 +11,8 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 fh.setFormatter(formatter)
 ch.setFormatter(formatter)
 
-
+# These logging config determines the appearence of the application log
+# in the namespace "applog.*"
 # create logger "applog"
 applog = logging.getLogger('applog')
 applog.setLevel(logging.DEBUG)
@@ -19,6 +20,9 @@ applog.setLevel(logging.DEBUG)
 # add the handlers to the logger
 applog.addHandler(fh)
 applog.addHandler(ch)
+
+# These logging config determines the appearence of the application log
+# in the namespace "liblog.*"
 
 # configure logger "liblog"
 liblog = logging.getLogger('liblog')
