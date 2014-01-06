@@ -1,3 +1,6 @@
+"""
+Main Applikation
+"""
 from applog.log import applog
 
 from liblog import liba
